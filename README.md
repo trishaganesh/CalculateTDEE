@@ -6,7 +6,9 @@ We will then need to calculate the TDEE = BMR * AF from there.
 
 
 This project allows us to understand how TDEE is calculated given the BMR and AF. 
+
 -------------------------------PMR----------------------------------------
+
 <+s>: In this program, if, else if, else statements to calculate the AF to then calculate the TDEE. 
 
 <-s>: Overall, I ran into some issues with Strings and converting; however, I asked my teacher for helped and he explained it very well. 
